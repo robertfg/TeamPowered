@@ -8,5 +8,6 @@ namespace TeamPowered
 {
     class Team
     {
+        public string TeamName { get; set; }
     }
 }
